@@ -16,7 +16,7 @@ def connect_to_database():
         host="localhost",
         database="karoo_capstone",
         user="postgres",
-        password="Masobo@2025",
+        password="******",
         port="5432"
     )
     return conn
